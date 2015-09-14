@@ -1,0 +1,5 @@
+C:\Users\Rumen Vasilev\Desktop\КПК\03. Naming-Identifiers-Homework (2)\3\C#\Mini4ki\bin\Debug\Minesweeper.exe
+C:\Users\Rumen Vasilev\Desktop\КПК\03. Naming-Identifiers-Homework (2)\3\C#\Mini4ki\bin\Debug\Minesweeper.pdb
+C:\Users\Rumen Vasilev\Desktop\КПК\03. Naming-Identifiers-Homework (2)\3\C#\Mini4ki\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\Rumen Vasilev\Desktop\КПК\03. Naming-Identifiers-Homework (2)\3\C#\Mini4ki\obj\Debug\Minesweeper.exe
+C:\Users\Rumen Vasilev\Desktop\КПК\03. Naming-Identifiers-Homework (2)\3\C#\Mini4ki\obj\Debug\Minesweeper.pdb

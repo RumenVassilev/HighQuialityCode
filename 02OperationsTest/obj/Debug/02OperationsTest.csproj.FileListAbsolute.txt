@@ -1,0 +1,6 @@
+c:\users\rumen vasilev\documents\visual studio 2013\Projects\QualityProgrammingCode\02OperationsTest\bin\Debug\02OperationsTest.exe.config
+c:\users\rumen vasilev\documents\visual studio 2013\Projects\QualityProgrammingCode\02OperationsTest\bin\Debug\02OperationsTest.exe
+c:\users\rumen vasilev\documents\visual studio 2013\Projects\QualityProgrammingCode\02OperationsTest\bin\Debug\02OperationsTest.pdb
+c:\users\rumen vasilev\documents\visual studio 2013\Projects\QualityProgrammingCode\02OperationsTest\obj\Debug\02OperationsTest.csprojResolveAssemblyReference.cache
+c:\users\rumen vasilev\documents\visual studio 2013\Projects\QualityProgrammingCode\02OperationsTest\obj\Debug\02OperationsTest.exe
+c:\users\rumen vasilev\documents\visual studio 2013\Projects\QualityProgrammingCode\02OperationsTest\obj\Debug\02OperationsTest.pdb
